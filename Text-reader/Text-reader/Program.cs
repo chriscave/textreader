@@ -56,7 +56,8 @@ namespace Textreader
     {
         public static void Main(string[] args)
         {
-            string path = "textfile.txt"; //include name of text file here. The text file should be saved in the Debug folder
+            Console.WriteLine("Please enter the name of the textfile that you would like reading. This should be in the Debug Folder. You do not need to include the extension");
+            string path = Console.ReadLine()+".txt";
             using (StreamReader sr = new StreamReader(path))
             {
                 while (sr.EndOfStream != true)

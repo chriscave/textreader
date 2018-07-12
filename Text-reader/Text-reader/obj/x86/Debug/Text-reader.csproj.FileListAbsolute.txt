@@ -1,0 +1,5 @@
+/home/chris/Projects/Text-reader/Text-reader/obj/x86/Debug/Text-reader.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Text-reader/Text-reader/bin/Debug/Text-reader.exe
+/home/chris/Projects/Text-reader/Text-reader/bin/Debug/Text-reader.pdb
+/home/chris/Projects/Text-reader/Text-reader/obj/x86/Debug/Text-reader.exe
+/home/chris/Projects/Text-reader/Text-reader/obj/x86/Debug/Text-reader.pdb

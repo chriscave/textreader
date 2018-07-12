@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{59945EFE-B8B5-4ECB-B287-EDDF888DE4EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/MessSeparatorTest.cs">
+    <Files>
+      <File FileName="Text-reader/Program.cs" Line="74" Column="6" />
+      <File FileName="Tests/WordCounterTest.cs" Line="17" Column="37" />
+      <File FileName="Tests/MessSeparatorTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Text-reader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

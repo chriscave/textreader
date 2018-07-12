@@ -1,0 +1,10 @@
+/home/chris/Projects/Text-reader/Tests/bin/Debug/Tests.dll
+/home/chris/Projects/Text-reader/Tests/bin/Debug/Tests.pdb
+/home/chris/Projects/Text-reader/Tests/bin/Debug/nunit.framework.dll
+/home/chris/Projects/Text-reader/Tests/bin/Debug/Text-reader.exe
+/home/chris/Projects/Text-reader/Tests/bin/Debug/Text-reader.pdb
+/home/chris/Projects/Text-reader/Tests/bin/Debug/nunit.framework.xml
+/home/chris/Projects/Text-reader/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/home/chris/Projects/Text-reader/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Text-reader/Tests/obj/Debug/Tests.dll
+/home/chris/Projects/Text-reader/Tests/obj/Debug/Tests.pdb
